@@ -5,3 +5,4 @@ Participo da equipe de desenvolvimento do software AmparoEdu, que busca auxiliar
 Estou sempre buscando me aprimorar e aprender novas tecnologias.
 Formas de Contato:
 email: emillywpinheiro@gmail.com
+linkedin: www.linkedin.com/in/emilly-wpf
